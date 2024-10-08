@@ -1,0 +1,7 @@
+footer{
+    height: 50px; /* Altura do footer */
+    background-color: #333;
+    color: white;
+   display: flex;
+   justify-content: center;
+}
